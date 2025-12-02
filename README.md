@@ -96,3 +96,8 @@
 
 ## After without %%
 
+ <p align="center">
+    <img src="Pict/Screenshot 2025-12-02 194228.png" alt="ss" width="800px"/>
+  </p> 
+
+
