@@ -1,7 +1,8 @@
 # Fastfetch Terminal Config
 
 ## Step 1
-- Copy the file .config in ur user file
+- make new file called
+- .config in ur user file
 - make new file fastfetch
 - and copy these file
   ```bash
@@ -9,7 +10,7 @@
   - config.jsonc
   ```
 ## Step 2
-- Find your ur powershell folder by click echo $PROFILE on ur terminal
+- Find ur powershell folder by click echo $PROFILE on ur terminal
 - and copy these file
   ```bash
   Microsoft.PowerShell_profile.ps1
