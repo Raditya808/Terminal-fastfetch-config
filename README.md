@@ -15,7 +15,7 @@
   Microsoft.PowerShell_profile.ps1
   ```
 
-  ## Pict
+  ## Before json using %% in user
  <p align="center">
     <img src="Pict/Screenshot%202025-11-01%20081804.png" alt="ss" width="800px"/>
   </p> 
@@ -93,3 +93,6 @@
 }
 
 ```
+
+## After without %%
+
